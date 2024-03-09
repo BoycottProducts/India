@@ -16,11 +16,6 @@ Calls to boycott Indian goods in Bangladesh follow allegations of Indian interfe
 ```
 
 ## Banner Ad (Video)
-<video src="assets/bip_default_vid.mp4"></video>
-<video src="assets/bip_default_vid.mp4" muted loop autoplay></video>
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/BoycottProducts/India/raw/main/assets/bip_default_vid.mp4)
-
-
 ```
 🔗 https://github.com/BoycottProducts/India/raw/main/assets/bip_default_vid.mp4
 🔗 https://github.com/BoycottProducts/India/raw/main/assets/bip_gray_vid.mp4
